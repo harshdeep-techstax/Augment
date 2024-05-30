@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[6474],{3516:function(c,n,a){a.r(n);var e=a(5893);n.default=function(c){var n=c.backgroundColor,a=c.children;return(0,e.jsx)("div",{className:"w-full ".concat(n?"bg-".concat(n):""),children:a})}}}]);
